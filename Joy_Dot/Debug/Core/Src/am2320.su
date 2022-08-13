@@ -1,0 +1,3 @@
+../Core/Src/am2320.c:3:22:am2320_Init	40	static
+../Core/Src/am2320.c:10:9:am2320_ReadValue	32	static
+../Core/Src/am2320.c:28:6:am2320_GetTemperatureAndHumidity	32	static
